@@ -23,7 +23,7 @@ An intelligent regulatory assistant that uses **Retrieval-Augmented Generation (
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/adityaak1512/Maritime-AI.git](https://github.com/adityaak1512/Maritime-AI.git)
+git clone https://github.com/adityaak1512/Maritime-AI.git
 cd Maritime-AI
 
 # Set up virtual environment
